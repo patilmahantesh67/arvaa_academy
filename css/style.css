@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+/* Applying Rubik font in the project */
+html, body, h1, h2, h3, h4, h5, h6, p, a, span, form, label, div {
+    font-family: 'Rubik', sans-serif;
+}
