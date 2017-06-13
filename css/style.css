@@ -87,3 +87,9 @@ nav.mainnav ul.rightmenu li a:hover{ color: #e0e0e0; }
 .media-section .ourtrainertext{ padding-top: 150px; padding-left: 20px; }
 .footer-section p, .footer-section address, .footer-section a { color: #aeaeae; }
 .footer-section p.blacktext { color: #252525; text-transform: uppercase; font-weight: bold; font-size: 13px; }
+
+/*About us page*/
+.otherpages{ height: 400px; }
+.otherpages .primarytext-wrap{ padding-top: 40px; }
+
+.about-section { padding-top: 60px; padding-bottom: 60px; }
