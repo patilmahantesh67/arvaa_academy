@@ -6,3 +6,6 @@ Initialized Bootstrap CSS
 Initialized Angular JS
 Added server.js - just for running the NODE JS server
 Added Rubik Font Awesome CSS - CDN Link
+
+To Run the server use the below command
+node server.js
