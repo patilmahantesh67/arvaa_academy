@@ -92,4 +92,7 @@ nav.mainnav ul.rightmenu li a:hover{ color: #e0e0e0; }
 .otherpages{ height: 400px; }
 .otherpages .primarytext-wrap{ padding-top: 40px; }
 
-.about-section { padding-top: 60px; padding-bottom: 60px; }
+.about-section, .coursesmain-section { padding-top: 60px; padding-bottom: 60px; }
+.coursesmain-section { padding-bottom: 40px; }
+.coursesmain-section .course-wrap { margin-bottom: 40px; }
+.coursesmain-section .course-wrap p.course-title { background: #e6e6e6; color: #252525; font-weight: bold; padding: 15px;}
