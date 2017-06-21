@@ -13,6 +13,8 @@ html, body { background-color: white; }
 .pt250 { padding-top: 250px; }
 .pt20 { padding-top: 20px; }
 .pt10 { padding-top: 10px; }
+.pt35 { padding-top: 35px; }
+.fs20 { font-size: 20px; }
 .whitetext { color: white; }
 .button-primary { color: #252525; border: 1px solid #ceac71; font-weight: bold; background: #f1ca86; border-radius: 20px; }
 .button-primary:hover { color: #333; }
@@ -67,14 +69,15 @@ nav.mainnav ul.rightmenu li a:hover{ color: #e0e0e0; }
     padding-top: 60px;
     padding-bottom: 40px;
 }
-.ourmission-section h1.ourmission { font-weight: bold; font-size: 40px; }
+h1.ourmission { font-weight: bold; font-size: 40px; }
 .ourmission-section p { font-size: 15px; }
-.ourmission-section h1.ourmission span { background-color: #f1ca86; padding-left: 10px; }
+h1.ourmission span { background-color: #f1ca86; padding-left: 10px; }
 .trainer-section{ height: 600px; }
 .trainer-section p.trainer-name { background-color: #f1ca86; color: #252525; display: inline-block; margin: 0px; 
     padding: 6px 10px; font-size: 20px; top: -145px; position: relative; left: 160px; }
 .trainer-section p.trainer-desig { background-color: #ffffff; color: #252525; display: inline-block;  padding: 6px 10px; 
     font-size: 20px; top: -144px; position: relative; left: 160px; box-shadow: 2px 2px 2px 2px #ddd; }
+p.factext { font-size: 16px; }
 .media-section, .footer-section, .enquiry-section{
     padding-top: 30px;
     padding-bottom: 30px;
@@ -84,7 +87,7 @@ nav.mainnav ul.rightmenu li a:hover{ color: #e0e0e0; }
 .enquiry-section .enquirep { text-transform: uppercase; font-weight: bold; color: white; text-shadow: 1px 1px 2px #333; }
 .enquiry-section .callnow { text-transform: uppercase; font-weight: bold; font-size: 20px; margin-top: 20px; background: white; padding: 20px; display: inline-block; border-radius: 35px; color: #333; text-shadow: 1px 1px 1px #868686; }
 .media-section .inmediatext{ text-transform: uppercase; padding-bottom: 5px; margin-bottom: 20px; border-bottom: 2px solid #f1ca86; display: inline-block; }
-.media-section .ourtrainertext{ padding-top: 150px; padding-left: 20px; }
+.media-section .ourtrainertext{ padding-top: 100px; padding-left: 20px; text-align: justify; }
 .footer-section p, .footer-section address, .footer-section a { color: #aeaeae; }
 .footer-section p.blacktext { color: #252525; text-transform: uppercase; font-weight: bold; font-size: 13px; }
 
